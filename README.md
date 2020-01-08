@@ -35,7 +35,7 @@ Just download this script and run it on your system
 ```
 ### Testing
 This script has been tested on next OS: CentOS 7, CentOS 8, Fedora 31, Debian 10.2,
-Ubuntu 18.04, Ubuntu 19.10, Arch Linux and Alpine Linux v3.11
+Ubuntu 18.04, Ubuntu 19.10, Linux Mint 19.3, Arch Linux and Alpine Linux v3.11
 ### Contributing
 Thanks [Pyenv](https://github.com/pyenv/pyenv) for this beautiful tool
 ### Authors of installation script
