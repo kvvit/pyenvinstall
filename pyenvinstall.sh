@@ -5,7 +5,7 @@ if [[ $1 = '-h' || $1 = '--help' ]]; then
   Usage: bash pyenv.sh without an arguments
   This is script for install pyenv and virtualenv in Linux OS. It has been
   tested on CentOS 7, CentOS 8, Fedora 31, Debian 10.2, Ubuntu 18.04,
-  Ubuntu 19.10, Arch Linux and Alpine Linux v3.11
+  Ubuntu 19.10,Linux Mint 19.3, Arch Linux and Alpine Linux v3.11
   \n--------------------------------------------------------------------------\n"
   exit
 fi
